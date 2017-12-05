@@ -11,7 +11,7 @@
   }(document, 'script', 'facebook-jssdk'));</script>
 
   <header class="container">
-    <h1>スマイルサンドアーティスト Pomu</h1>
+    <h1>スマイルアーティストPomu</h1>
   </header>
 
   <div id="cover">
